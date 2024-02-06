@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi! My name is Sahib Singh 👋
 
 <!--
 **Sahib13999/sahib13999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+🌍  I am a Front-End Developer based in India.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
