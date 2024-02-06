@@ -1,4 +1,4 @@
-### Hi! My name is Sahib Singh 👋
+### Hi! My name is Sahib Singh 😄
 
 <!--
 **Sahib13999/sahib13999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
